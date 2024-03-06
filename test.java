@@ -1,3 +1,6 @@
 class Test{
-	syeeeazeaeazeazstem    
+	syeeeazeaeazeaoeeaz
+		eazeaeazzae
+ezaeazaezazeaze
+		eazeazeazzzstem    
 }
