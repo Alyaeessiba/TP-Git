@@ -1,3 +1,3 @@
 class Test{
-	system    
+	syeeeazeaeazeazstem    
 }
