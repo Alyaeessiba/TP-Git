@@ -1,3 +1,3 @@
 class Test{
-	syeeeazeaeazeazstem    
+	system.out("hi");    
 }
